@@ -4,6 +4,7 @@
 
 This Power BI dashboard analyzes “pizza sales” from a dataset containing order details, revenue, and pizza categories. The goal is to gain insights into sales trends, popular pizzas, and customer behavior.
 
+
 🎯 **Objectives**
 
 By analyzing this dataset and building a Power BI dashboard, we can gain valuable insights into business sales performance and customer preferences. Key objectives include:
@@ -28,28 +29,38 @@ This pizza sales dataset consists of a single CSV file, capturing detailed trans
 - pizza_name: The actual name of the pizza for reference.
 
  🛠️ **Technologies Used**
+ 
 - Power BI(Dashboard Development)
 - DAX(Data Analysis & Measures)
 - Power Query(Data Cleaning & Transformation)
 - SQL (Calculate KPI measures for validation before comparing them with DAX calculations in Power BI to ensure accuracy, help identify discrepancies, and validate data integrity)
 
  🚀 **Steps to Build the Power BI Dashboard**
+ 
    1. Importing the Dataset
+   
    2. Data Cleaning & Transformation
+      
 Use Power Query to clean and format the data:
   - Ensure correct data types (e.g., dates, numbers).
   - Remove any unnecessary columns and handle missing values.
   - Create new columns if needed (e.g., Day name, Month name for trend analysis).
+    
    3. **Data Modeling**
+      
 - Define relationships between columns like order_id, pizza_id, and pizza_category.
 - Create calculated measures using DAX(e.g., Total Order, Total Revenue, …).
+  
    4. **Creating Visualizations**
+      
 Use bar charts, pie charts, line graphs,… to showcase:
 - Order trends over time
 - % sales by pizza category and size
 - Best-selling pizza categories
 - Peak Ordering hours analysis
+  
    5. **Building the Dashboard**
+      
 - Arrange the visuals in Power BI report view.
 - Add interactive filters like date range and category selection.
 - Include KPIs such as total revenue, number of orders, and best-selling pizza.
