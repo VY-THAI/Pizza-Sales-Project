@@ -66,12 +66,16 @@ Use Power Query to clean and format the data:
  📈 **Key Insights**
  
 - Sales peak seasons:
+  
  •	Fridays and Saturdays
  •	January and July
+ 
 - The top-selling pizzas based on different metrics are:
+  
  •	Revenue: The Thai Chicken Pizza
  •	Quantity Sold: The Classic Deluxe Pizza
  •	Number of Orders: The Classic Deluxe Pizza
+ 
 - Sales peak hours include 12 PM - 1 PM and 4 PM-8 PM, especially on weekends.
 - Meat-based pizzas generate higher revenue than veggie options.
 
