@@ -37,9 +37,9 @@ This pizza sales dataset consists of a single CSV file, capturing detailed trans
 
  🚀 **Steps to Build the Power BI Dashboard**
  
-   1. Importing the Dataset
+   1. **Importing the Dataset**
    
-   2. Data Cleaning & Transformation
+   2. **Data Cleaning & Transformation**
       
 Use Power Query to clean and format the data:
   - Ensure correct data types (e.g., dates, numbers).
@@ -50,7 +50,7 @@ Use Power Query to clean and format the data:
       
 - Define relationships between columns like order_id, pizza_id, and pizza_category.
 - Create calculated measures using DAX(e.g., Total Order, Total Revenue, …).
-  
+
    4. **Creating Visualizations**
       
 Use bar charts, pie charts, line graphs,… to showcase:
@@ -58,8 +58,8 @@ Use bar charts, pie charts, line graphs,… to showcase:
 - % sales by pizza category and size
 - Best-selling pizza categories
 - Peak Ordering hours analysis
-  
-   5. **Building the Dashboard**
+
+  5. **Building the Dashboard**
       
 - Arrange the visuals in Power BI report view.
 - Add interactive filters like date range and category selection.
