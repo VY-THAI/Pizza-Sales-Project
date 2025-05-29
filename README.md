@@ -41,27 +41,27 @@ This pizza sales dataset consists of a single CSV file, capturing detailed trans
 2. **Data Cleaning & Transformation**
 
 Use Power Query to clean and format the data:
-  - Ensure correct data types (e.g., dates, numbers).
-  - Remove any unnecessary columns and handle missing values.
-  - Create new columns if needed (e.g., Day name, Month name for trend analysis).
+- Ensure correct data types (e.g., dates, numbers).
+- Remove any unnecessary columns and handle missing values.
+- Create new columns if needed (e.g., Day name, Month name for trend analysis).
     
 3. **Data Modeling**
 
-  - Define relationships between columns like order_id, pizza_id, and pizza_category.
-  - Create calculated measures using DAX(e.g., Total Order, Total Revenue, …).
+- Define relationships between columns like order_id, pizza_id, and pizza_category.
+- Create calculated measures using DAX(e.g., Total Order, Total Revenue, …).
       
 4. **Creating Visualizations**
 
-   - Order trends over time
-   - % sales by pizza category and size
-   - Best-selling pizza categories
-   - Peak Ordering hours analysis
+- Order trends over time
+- % sales by pizza category and size
+- Best-selling pizza categories
+- Peak Ordering hours analysis
      
 5. **Building the Dashboard**
-   - Order trends over time
-   - % sales by pizza category and size
-   - Best-selling pizza categories
-   - Peak Ordering hours analysis
+- Order trends over time
+- % sales by pizza category and size
+- Best-selling pizza categories
+- Peak Ordering hours analysis
    
  📈 **Key Insights**
  
