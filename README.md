@@ -1,4 +1,5 @@
-🍕 **Pizza Sales Dashboard – Power BI Project**
+🍕 ****Pizza Sales Dashboard – Power BI Project****
+
 📌 **Overview**
 This Power BI dashboard analyzes “pizza sales” from a dataset containing order details, revenue, and pizza categories. The goal is to gain insights into sales trends, popular pizzas, and customer behavior.
 🎯 **Objectives**
