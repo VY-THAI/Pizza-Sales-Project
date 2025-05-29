@@ -1,8 +1,10 @@
 <h1><b>🍕 Pizza Sales Dashboard – Power BI Project</b></h1>
 
 📌 **Overview**
+
 This Power BI dashboard analyzes “pizza sales” from a dataset containing order details, revenue, and pizza categories. The goal is to gain insights into sales trends, popular pizzas, and customer behavior.
 🎯 **Objectives**
+
 By analyzing this dataset and building a Power BI dashboard, we can gain valuable insights into business sales performance and customer preferences. Key objectives include:
 1. Revenue & Order Insights– Track total revenue, average order value, and sales trends over time.
 2. Best & Worst-Selling Pizzas– Identify top-performing pizzas and those with low sales to optimize inventory and marketing strategies.
@@ -11,6 +13,7 @@ By analyzing this dataset and building a Power BI dashboard, we can gain valuabl
 5. Customer Preferences & Behavior– Segment customers based on ordering habits to tailor promotions and menu offerings.
 
  📊 **About the Dataset**
+
 This pizza sales dataset consists of a single CSV file, capturing detailed transaction data. Each row represents an individual pizza order, including:
 - pizza_id: Unique identifier for each type of pizza.
 - order_id: Distinct order number linking multiple pizzas within a single purchase.
@@ -30,8 +33,8 @@ This pizza sales dataset consists of a single CSV file, capturing detailed trans
 - SQL (Calculate KPI measures for validation before comparing them with DAX calculations in Power BI to ensure accuracy, help identify discrepancies, and validate data integrity)
 
  🚀 **Steps to Build the Power BI Dashboard**
- 1. Importing the Dataset
- 2. Data Cleaning & Transformation
+   1. Importing the Dataset
+   2. Data Cleaning & Transformation
 Use Power Query to clean and format the data:
   - Ensure correct data types (e.g., dates, numbers).
   - Remove any unnecessary columns and handle missing values.
@@ -49,15 +52,17 @@ Use bar charts, pie charts, line graphs,… to showcase:
 - Arrange the visuals in Power BI report view.
 - Add interactive filters like date range and category selection.
 - Include KPIs such as total revenue, number of orders, and best-selling pizza.
-- Provide key insights and recommendations. 
+- Provide key insights and recommendations.
+  
  📈 **Key Insights**
+ 
 - Sales peak seasons:
-•	Fridays and Saturdays
-•	January and July
+ •	Fridays and Saturdays
+ •	January and July
 - The top-selling pizzas based on different metrics are:
-•	Revenue: The Thai Chicken Pizza
-•	Quantity Sold: The Classic Deluxe Pizza
-•	Number of Orders: The Classic Deluxe Pizza
+ •	Revenue: The Thai Chicken Pizza
+ •	Quantity Sold: The Classic Deluxe Pizza
+ •	Number of Orders: The Classic Deluxe Pizza
 - Sales peak hours include 12 PM - 1 PM and 4 PM-8 PM, especially on weekends.
 - Meat-based pizzas generate higher revenue than veggie options.
 
