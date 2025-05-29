@@ -3,6 +3,7 @@
 📌 **Overview**
 
 This Power BI dashboard analyzes “pizza sales” from a dataset containing order details, revenue, and pizza categories. The goal is to gain insights into sales trends, popular pizzas, and customer behavior.
+
 🎯 **Objectives**
 
 By analyzing this dataset and building a Power BI dashboard, we can gain valuable insights into business sales performance and customer preferences. Key objectives include:
